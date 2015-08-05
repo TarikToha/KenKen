@@ -1,0 +1,3 @@
+﻿  kenken.cpp
+kenken.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  kenken.vcxproj -> C:\Users\TOHA\documents\visual studio 2010\Projects\kenken\Debug\kenken.exe
